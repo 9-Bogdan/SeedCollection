@@ -9,3 +9,6 @@ fastapi-limiter
 sqlalchemy
 pydantic[dotenv]
 uvicorn
+fastapi-sso
+pydantic-settings
+alembic 
